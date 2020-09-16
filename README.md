@@ -1,4 +1,4 @@
-# Projeto prático 2
+# Projeto Prático 2
 Instituição: Universidade do Estado do Amazonas - UEA
 Curso: Engenharia de Computação
 Disciplina: Redes Neurais Artificiais
